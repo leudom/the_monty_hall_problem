@@ -4,4 +4,3 @@ channels:
   - defaults
 dependencies:
   - python=3.7
-prefix: /Users/dominikl/opt/miniconda3/envs/monty_hall_env
