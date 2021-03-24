@@ -1,7 +1,7 @@
 The Monty Hall Problem (Simulation)
 ==============================
 
-This project showcases a simulation of the ever-fascinating Monty Hall problem. Why fascinating? Eventough the problem itself as well as the mathematics behind is quite simple to get, the intuition of the solution is missleading in such a way, that even statisticians were challenged by this brain teaser. However, the theory behind that problem can be rigorously verified with simulations...and this repo provides you the code to play around with!
+> This project showcases a simulation of the ever-fascinating Monty Hall problem. Why fascinating? Eventough the problem itself as well as the mathematics behind is quite simple to get, the intuition of the solution is missleading in such a way, that even statisticians were challenged by this brain teaser. However, the theory behind that problem can be rigorously verified with simulations...and this repo provides you the code to play around with!
 
 And here is the problem in short:
 
@@ -60,5 +60,12 @@ As you increase the number of trials, the relative frequency of winning the priz
 Happy goating!
 ## Contributing
 Pull requests are welcome. Feel free to fork this repo and extend the game as you like.
+
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
